@@ -58,3 +58,8 @@ Before you begin, ensure you have the following:
     ├── appspec.yml
     ├── src/
     └── scripts/
+
+
+find route app has been build using google_maps api
+
+![image](https://github.com/sathishkumar-2001/aws-cicd-projects/assets/126504329/cc9fe468-5993-4324-8aef-d915a045c83d)
