@@ -33,6 +33,10 @@ Before you begin, ensure you have the following:
 - Basic knowledge of AWS services (CodeCommit, CodeBuild, CodeDeploy, CodePipeline)
 - Git installed on your local machine
 
+find route app has been build using google_maps api
+
+![image](https://github.com/sathishkumar-2001/aws-cicd-projects/assets/126504329/cc9fe468-5993-4324-8aef-d915a045c83d)
+
 ## Project Structure
 
 ```markdown
@@ -60,6 +64,3 @@ Before you begin, ensure you have the following:
     └── scripts/
 
 
-find route app has been build using google_maps api
-
-![image](https://github.com/sathishkumar-2001/aws-cicd-projects/assets/126504329/cc9fe468-5993-4324-8aef-d915a045c83d)
